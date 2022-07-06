@@ -1,0 +1,1 @@
+{"name":"hellofunctions","type":"function","source":{"https":"https://github.com/that-coder/hellofunctions","ssh":"git@github.com:that-coder/hellofunctions.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":false}
